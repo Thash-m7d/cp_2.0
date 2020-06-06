@@ -95,6 +95,6 @@ void main()
                   printf("\nTranspose of matrix 2 ");
                   transpose(b,r2,c2);
                   break;
-         default :printf("\n*********ERROR*********");
+         default :printf("\nError");
       }
   }   
